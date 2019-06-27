@@ -1,0 +1,6 @@
+*.pyc
+output/
+result/
+*.png
+*.txt
+*.csv
